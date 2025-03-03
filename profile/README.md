@@ -37,11 +37,11 @@
 
 ## 시스템 플로우
 
-![시스템 플로우](https://github.com/Psychological-Counseling-K-html/.github/refs/heads/main/profile/assets/system_architecture.png)
+![시스템 플로우](https://raw.githubusercontent.com/Psychological-Counseling-K-html/.github/refs/heads/main/profile/assets/system_architecture.png)
 
 ## 서비스 내용 예시
 
-![서비스 내용 예시](https://github.com/Psychological-Counseling-K-html/.github/refs/heads/main/profile/assets/service_example.png)
+![서비스 내용 예시](https://raw.githubusercontent.com/Psychological-Counseling-K-html/.github/refs/heads/main/profile/assets/service_example.png)
 
 ## 프로젝트 진행 상황
 
